@@ -1,0 +1,8 @@
+﻿  main.cpp
+C:\Users\Usuario\Desktop\ESTRUCTURAS DE DATOS\SfmlTest\SfmlTest\main.cpp(19,25): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Usuario\Desktop\ESTRUCTURAS DE DATOS\SfmlTest\SfmlTest\main.cpp(19,22): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Usuario\Desktop\ESTRUCTURAS DE DATOS\SfmlTest\SfmlTest\main.cpp(32,21): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Usuario\Desktop\ESTRUCTURAS DE DATOS\SfmlTest\SfmlTest\main.cpp(33,21): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Usuario\Desktop\ESTRUCTURAS DE DATOS\SfmlTest\SfmlTest\main.cpp(37,61): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Usuario\Desktop\ESTRUCTURAS DE DATOS\SfmlTest\SfmlTest\main.cpp(37,58): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  SfmlTest.vcxproj -> C:\Users\Usuario\Desktop\ESTRUCTURAS DE DATOS\SfmlTest\x64\Debug\SfmlTest.exe
