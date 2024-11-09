@@ -19,7 +19,13 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="fileManager.cpp" />
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="sudokuMatriz.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="fileManager.h" />
+    <ClInclude Include="sudokuMatriz.h" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
